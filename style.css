@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins', arial;
+    background-image: url('https://v1.li.me/hubfs/lime-launches-electric-scooters-copenhagen-1.jpg');
+}
+main{
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    margin: auto;
+    margin-top: 3rem;
+    padding-bottom: 2%;
+}
+.header {
+    text-align: center;
+    padding-top: 5%;
+}
+.header img{
+    width: 20%;
+    height: auto;
+}
+.header h2{
+    color: rgb(0, 255, 0);
+    letter-spacing: 0.1em;
+}
+.navbar {
+    width: 80%;
+    margin: auto;
+    background: rgb(0, 255, 0);
+    padding: 1%;
+    margin-top: 1rem;
+    text-align: center;
+}
+.item {
+    color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    margin-top: 1.5rem;
+}
+.item h3 {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 400;
+}
+.item p{
+    font-weight: 300;
+    color: lightgrey;
+}
+.item span{
+    font-size: 14px;
+    color: lightgray:
+}
+.carica1 {
+    background: orange;
+    border-radius: 5px;
+    width: 350px;
+    height: 30px;
+}
+.carica2 {
+    background: rgb(3, 197, 3);
+    border-radius: 5px;
+    width: 600px;
+    height: 30px;
+}
+.carica3{
+    background: rgb(197, 26, 3);
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+}
